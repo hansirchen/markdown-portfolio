@@ -2,13 +2,15 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# hansirchen
+<br>
+
+![]()
 
 <br>
 
-{% include 02-image.md %}
+[GitHub](http://github.com)
 
-<br>
+=======
 
-{% include 03-links.md %}
 
